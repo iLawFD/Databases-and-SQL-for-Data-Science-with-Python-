@@ -1,6 +1,6 @@
 # Databases-and-SQL-for-Data-Science-with-Python-
 
--Here are my solutions for the 10 problem assiment for the IBM SQL course. This is for those who are struggling with the assiment and want to see the solutions
+-Here are my solutions for the 10 problem assignment for the IBM SQL course. This is for those who are struggling with the assignment and want to see the solutions
 
 ##
 ##
